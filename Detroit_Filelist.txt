@@ -1,0 +1,222 @@
+6B - Helicopter
+83 - Car
+85 - another car
+87 - more cars
+97 - Train
+B7 - Bus 
+FF - Broadcaster
+12D - AP700 male white guy
+12F - Sniper rifle
+131 - Android worker male
+137 - Worker?
+13D - Paint Shop Clerk
+14F - Caroline Phillips (woman from beginning)
+16B - Police car
+16D - Hank’s car
+171 - truck
+179 - Soldier Armored
+1D7 - Random old guy
+1DB - Crane truck
+1DD - Trash truck?
+1E5 - Soldier (Armored)
+1E7 - Gun
+1EF - Random Cop
+1ED - Random guy with ponytail
+1F3 - Random Woman
+1F5 - Civillian with wide nose
+209 - Worker Android (Ralph’s model)
+20F - worker android
+155 - Truck from Heist
+299 - Carl’s Wheelchair
+2B1 - pistol
+2BD - Emma
+2CB - another pistol
+2D5 - Random civillian woman
+2E3 - Daniel
+2E7 - Helicopter
+2EF - Random black guy
+317 - Random Cop
+3D9 - Random woman with coat
+3E9 - Random guy with short hair
+3EA - Random big guy
+3EC - Random glasses guy
+3F0 - Random woman with skirt
+3F2 - AP700 black woman
+3F4 - Some..fisherman
+3F6 - Random gangster dude
+3FD - Random upper class guy
+429 - Truck
+475 - pickup
+42B - Random guy without a shirt
+4EB - Hank (Rain)
+54B - Gavin Reed
+5FB - Leo (Alternate)
+633 - Leo (Main)
+656 - Kara (Android)
+672 - Kara (Android with hair)
+6B2 - Markus head missing an eye
+6C7 - Some guy with dreads?
+6C9 - Kara (After Zlatko)
+731 - Alice (Interior)
+7CB - AP700 Asian guy
+834 - Sumo (Hank’s dog)
+83B - Kara (Default)
+8A1 - Markus (Interior)
+8D6 - Markus (Exterior)
+8E5 - Quarantaine guy
+905 - Maid (kara model)
+90D - Random Android male
+918 - Carlos’ Android
+91A - News Reporter
+91C - Android worker male
+91E - Carlos
+99D - Dog
+92C - PL600 (simon model)
+948 - Markus (Infiltration)
+9BF - Police chief
+A17 - Carl (After Party)
+A21 - Carl (Main)
+A23 - Carl (Sick)
+A25 - Android Worker
+A37 - Captain Allen
+A47 - Todd Williams
+A54 - North (Infiltration)
+A71 - Destroyed Android
+A75 - Dead Cop
+AA4 - Alice (Exterior hood)
+AB0 - Markus (Broken)
+AE5 - Chloe (With Kamski)
+AEB - Chloe (Bikini)
+B98 - Amanda
+C07 - Kamski (Epilogue)
+C0F - Kamski (Interior)
+C1F - Rose Chapman
+C31 - Rose (Interior)
+C59 - Chloe (Hostess)
+CAC - Alice (Interior alt)
+CBA - Ralph 
+D0F - Connor
+D19 - Markus (Coat)
+D50 - Android child boy
+D8C - Adam (Interior)
+D90 - Jerry (With ice)
+D92 - Zlatko
+D94 - Kara (Zlatko)
+D96 - Richard Perkins
+D98 - Kara (Squat)
+D9A - Kara (Lavomatic)
+DA4 - Luther 
+DD5 - North (Jericho)
+DDD - Simon (Freedom March)
+DF3 - Simon (Jericho)
+E5D - Josh (Jericho)
+E49 - Civilian?
+E69 - The President
+E82 - Some android without a shoe?
+E84 - Todd (when retrieving kara)
+EA6 - Josh (Freedom March)
+EBD - Luther (Exterior)
+F0A - Zlatko Bear
+F8E - Kara (Parking Lot)
+F98 - Markus (Suit)
+Fa4 - Dunger machine
+FBB - Rat (Ralph’s food )
+FCF - Alice (?)
+FED - Markus (Utility)
+FEF - North (Utility)
+FFB - Kara (After Zlatko)
+10AE - Trashbag
+10DE - Traci (North variant)
+10F6 - Lucy
+1184 - North (Final)
+11FB - Android (Commercial Outfit - Female)
+120A - Android torso (Zlatko house)
+1224 - Zlatko Creature
+1235 - Zltako Creature
+123F - Zlatko Creature
+1245 - Zlatko Creature
+1249 - Zlatko Creature
+1251 - Zlatko Creature
+127A - Zlatko Creature
+129E - WR400 (north model, worker)
+1352 - Alice (Zlatko)
+1390 - Hank (Underwear)
+13D0 - HR400 (male traci white)
+13DE - HR400 (male traci black)
+13E4 - WR400 (female traci short hair)
+13F1 - HR400 (female traci long hair)
+1427 - Military Vehicle
+1429 - car
+1439 - Hank (Snow)
+1451 - HR400 (male traci asian)
+1510 - WR400 (female traci asian)
+1541 - Revolver
+1560 - Tank
+153D - Female Jericho Android with blanket
+1557 - Traci with weird suit
+1572 - Random Cop
+15C3 - Hank (Inside)
+15E4 - Adam (Exterior)
+162D - Random Female Android without skin
+1646 - Worker Android (Jerry model)
+1648 - Worker Android (Simon model)
+164A - Worker Android (Ralph’s model)
+164C - Worker Android asian
+167A - Soldier (Helmet)
+1680 - Alice (Android? With Hair?)
+1682 - Luther (Android)
+1687 - Jerry Android
+16A3 - EM400 (Jerry type worker)
+16A5 - EM400 (Jerry type broken arm)
+16A9 - EM400 (Jerry type no shoes, hat)
+16AB - Random Android Worker
+16B6 - Markus (Final)
+16F4 - Rose Car
+16F8 - Commercial Bot (Kara model)
+1710 - Worker Android (Ralph Model)
+1762 - Todd (Exterior)
+179E - Outside Worker Android (Ralph’s model)
+17BC - Drone
+1870 - Bus
+189C - WR400 (female traci black)
+1999 - Daniel (broken)
+1A51 - Kara (at Rose)
+1A65 - Dead Android?
+1A6A - Random Cop
+1A7E - Soldier
+1A82 - Blue-haired Traci
+1A88 - RK900 (Evil Connor)
+1A9D - A car
+1AA3 - Random Cop
+1AC7 - Destroyed Female Worker Android
+1ACD - Rose (Exterior)
+1AD5 - Pigeon
+1AD7 - random guy with button shirt
+1ADD - Markus (Freedom March)
+1AE5 - Gardener Male
+1AEB - Civillian Male Winter
+1B05 - Android asian short hair
+1B8A - Simon (Jericho)
+1B40 - Connor
+1C0F - Alice (Cardigan)
+1C9C - Traci (Jericho)
+1C9D - Another Jericho Traci?
+1C79 - Baby
+1C80 - Connor (Infiltration)
+1CAE - Zlatko Creature
+1CEC - Random Android Male
+1CEE - Random Android Female
+1B4E - Kamski (Interview)
+1B82 - Leo (Outside)
+1B8A - Simon (Jericho)
+1C30 - Ralph (Android)
+1C80 - Connor (Jericho)
+1C81 - Jerry (Disguise)
+1C83 - Markus (Android)
+1C85 - Jerry (Disguise Winter)
+1C9C - Traci (Jericho)
+1CAE - Zlatko Monster (Female with open head)
+1D52 - Markus (Kamski End)
+1D2C - Markus (Final)
+1D3D - Fake Connor
+1D6B - Random Civillian with hat

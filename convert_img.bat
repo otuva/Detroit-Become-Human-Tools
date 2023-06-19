@@ -1,0 +1,1 @@
+FOR /R %%a IN (*.) do detroit_img "%%a"

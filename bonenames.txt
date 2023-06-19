@@ -1,0 +1,466 @@
+00000000 = Root
+
+47D23906 = Bip_Pelvis
+4FA0DDCE = Bip_PelvisHelper1
+38A7ED58 = Bip_PelvisHelper2
+D6A98C74 = Bip_PelvisHelper3
+
+A1BB5420 = Bip_HipFront_L
+C5B9CDC3 = Bip_HipFront_R
+83B764F7 = Bip_HipSide_L
+669E5A15 = Bip_HipSide_R
+7337951F = Bip_HipHelper_L
+961EABFD = Bip_HipHelper_R
+
+BB237F70 = Bip_HipTwistBase_L
+F5C2D51A = Bip_HipTwistBase_R
+BE3FF4C6 = Bip_HipTwistSide_L
+789A3CF3 = Bip_HipTwistSide_R
+36E22420 = Bip_HipTwistFront_L
+78038E4A = Bip_HipTwistFront_R
+
+FDEE6258 = Bip_Thigh_L
+CA0F85CB = Bip_Thigh_R
+222A2ECA = Bip_ThighTwistTop_L
+6CCB84A0 = Bip_ThighTwistTop_R
+552D1E5C = Bip_ThighTwistBottom_L
+1BCCB436 = Bip_ThighTwistBottom_R
+
+EBE00EA4 = Bip_KneeOut_L
+DC6E4035 = Bip_KneeOut_R
+67F48230 = Bip_KneeIn_L
+507ACCA1 = Bip_KneeIn_R
+B08C7812 = Bip_KneeTwistTopOutBase_L
+E6F919F9 = Bip_KneeTwistTopOutBase_R
+98BF77BE = Bip_KneeTwistTopOut_L
+7D96495C = Bip_KneeTwistTopOut_R
+FA0DE542 = Bip_KneeTwistBottomOut_L
+3CA82D77 = Bip_KneeTwistBottomOut_R
+761969D6 = Bip_KneeTwistBottomIn_L
+B0BCA1E3 = Bip_KneeTwistBottomIn_R
+
+A5436BFF = Bip_Leg_L
+7A93421C = Bip_Leg_R
+8AA383B4 = Bip_LegTwistTop_L
+76236C79 = Bip_LegTwistTop_R
+13AAD20E = Bip_LegTwistBottom_L
+EF2A3DC3 = Bip_LegTwistBottom_R
+
+64ADE298 = Bip_Ankle_L
+982D0D55 = Bip_Ankle_R
+2479A7EA = Bip_AnkleHelper_R
+
+023E19F4 = Bip_Foot_L
+3BE27A1F = Bip_Foot_R
+0C4A5282 = Bip_FootHelper_L
+A55BD5B8 = Bip_FootHelper_R
+
+A3971091 = Bip_Toe_L
+7C473972 = Bip_Toe_R
+
+D0444733 = Bip_SpineBase
+3CDCCAE6 = Bip_Spine1
+A5D59B5C = Bip_Spine2
+D2D2ABCA = Bip_Spine3
+1920467A = Bip_Spine4
+331557D3 = Bip_Neck
+9EC266B5 = Bip_Head
+79A9406F = Bip_HeadHelper1
+97A72143 = Bip_HeadHelper2
+E0A011D5 = Bip_HeadHelper3
+69F3E58F = Bip_FaceMouth
+
+8EE04F61 = Bip_Collar_L
+C001E50B = Bip_Collar_R
+54921457 = Bip_CollarHelper_L
+1A73BE3D = Bip_CollarHelper_R
+53D8E60C = Bip_CollarBack
+
+EA637F56 = Bip_ShoulderBlade_L
+4372F86C = Bip_ShoulderBlade_R
+C04F3086 = Bip_Clavicle_L
+F92881DD = Bip_Clavicle_R
+775DD5A7 = Bip_ShoulderTop_L
+1E6CF6BE = Bip_ShoulderTop_R
+BE29ADCA = Bip_ShoulderBackIn_L
+17382AF0 = Bip_ShoulderBackIn_R
+12BC4F02 = Bip_ShoulderBackOut_L
+2BDBFE59 = Bip_ShoulderBackOut_R
+1221D486 = Bip_ShoulderFrontIn_L
+D4841CB3 = Bip_ShoulderFrontIn_R
+A837D45B = Bip_ShoulderFrontOut_L
+54B73B96 = Bip_ShoulderFrontOut_R
+
+C2F42E6D = Bip_ArmpitBase_L
+F57A60FC = Bip_ArmpitBase_R
+9B522E5A = Bip_Armpit_L
+3243A960 = Bip_Armpit_R
+A9E2039F = Bip_ArmpitRingBase_L
+5562EC52 = Bip_ArmpitRingBase_R
+1CD3F549 = Bip_ArmpitRing_L
+B5C27273 = Bip_ArmpitRing_R
+
+19BECBD0 = Bip_UpperArmHelper1_L
+E53E241D = Bip_UpperArmHelper1_R
+C45C3355 = Bip_UpperArmBase_L
+A05EAAB6 = Bip_UpperArmBase_R
+48CD9524 = Bip_UpperArm_L
+971DBCC7 = Bip_UpperArm_R
+30EB5225 = Bip_UpperArmTwistTop_L
+CC6BBDE8 = Bip_UpperArmTwistTop_R
+47EC62B3 = Bip_UpperArmTwistBottom_L
+BB6C8D7E = Bip_UpperArmTwistBottom_R
+
+C1831B49 = Bip_ElbowHelper_L
+97F67AA2 = Bip_ElbowHelper_R
+F350F3BC = Bip_ElbowBackTopBase_L
+9115C57D = Bip_ElbowBackTopBase_R
+95BFD42E = Bip_ElbowBackTop_L
+DB5E7E44 = Bip_ElbowBackTop_R
+4F6F212A = Bip_ElbowBack_L
+D7443F76 = Bip_ElbowBack_R
+C37BADBE = Bip_ElbowFront_L
+5B50B3E2 = Bip_ElbowFront_R
+
+386A3400 = Bip_Forearm_L
+5C68ADE3 = Bip_Forearm_R
+4D9797DD = Bip_ForearmHelper_L
+1BE2F636 = Bip_ForearmHelper_R
+9A9E0AC7 = Bip_ForearmTwistTop_L
+338F8DFD = Bip_ForearmTwistTop_R
+03975B7D = Bip_ForearmTwistMiddle_L
+AA86DC47 = Bip_ForearmTwistMiddle_R
+74906BEB = Bip_ForearmTwistBottom_L
+DD81ECD1 = Bip_ForearmTwistBottom_R
+
+EAF4FE48 = Bip_WristTwistBase_L
+43E57972 = Bip_WristTwistBase_R
+7F911415 = Bip_WristTwistHelper_L
+9AB82AF7 = Bip_WristTwistHelper_R
+20BDDE36 = Bip_WristTwistOut_L
+89AC590C = Bip_WristTwistOut_R
+DAC2DF0D = Bip_WristTwistIn_L
+8CB7BEE6 = Bip_WristTwistIn_R
+
+CF04C0C3 = Bip_WristTwistN_L
+F6637198 = Bip_WristTwistN_R
+46B5A8A9 = Bip_WristTwistW_L
+BA354764 = Bip_WristTwistW_R
+0FC1EC1F = Bip_WristTwistS_L
+EAE8D2FD = Bip_WristTwistS_R
+5337E41A = Bip_WristTwistE_L
+AFB70BD7 = Bip_WristTwistE_R
+
+ECD362E8 = Bip_Hand_L
+D50F0103 = Bip_Hand_R
+17B3B228 = Bip_HandHelper1_L
+50AC543E = Bip_HandHelper1_R
+60B482BE = Bip_HandHelper2_L
+BEA23512 = Bip_HandHelper2_R
+F9BDD304 = Bip_HandHelper3_L
+C9A50584 = Bip_HandHelper3_R
+
+C62A9400 = Bip_FThumb01_L
+F1CB7393 = Bip_FThumb01_R
+831AC523 = Bip_FThumb02_L
+EA2BE63A = Bip_FThumb02_R
+1A139499 = Bip_FThumb03_L
+7322B780 = Bip_FThumb03_R
+
+536E22DA = Bip_FIndex00_L
+648FC549 = Bip_FIndex00_R
+E589BA5F = Bip_FIndex01_L
+8CB89946 = Bip_FIndex01_R
+7C80EBE5 = Bip_FIndex02_L
+15B1C8FC = Bip_FIndex02_R
+0B87DB73 = Bip_FIndex03_L
+62B6F86A = Bip_FIndex03_R
+
+8F520CD6 = Bip_FMiddle00_L
+E6632FCF = Bip_FMiddle00_R
+ECE3CA5A = Bip_FMiddle01_L
+88E153B9 = Bip_FMiddle01_R
+75EA9BE0 = Bip_FMiddle02_L
+11E80203 = Bip_FMiddle02_R
+02EDAB76 = Bip_FMiddle03_L
+66EF3295 = Bip_FMiddle03_R
+
+446DD511 = Bip_FRing00_L
+7DB1B6FA = Bip_FRing00_R
+E928A290 = Bip_FRing01_L
+DEC94503 = Bip_FRing01_R
+7021F32A = Bip_FRing02_L
+47C014B9 = Bip_FRing02_R
+0726C3BC = Bip_FRing03_L
+30C7242F = Bip_FRing03_R
+
+475A775E = Bip_FPinky00_L
+70BB90CD = Bip_FPinky00_R
+0F48C933 = Bip_FPinky01_L
+6679EA2A = Bip_FPinky01_R
+96419889 = Bip_FPinky02_L
+FF70BB90 = Bip_FPinky02_R
+E146A81F = Bip_FPinky03_L
+88778B06 = Bip_FPinky03_R
+
+43103902 = Bip_FaceForeheadTop
+179C707D = Bip_FaceForeheadTop_L
+D139B848 = Bip_FaceForeheadTop_R
+
+3C553FE0 = Bip_FaceForehead
+9F0D08AB = Bip_FaceForehead00_L
+A883463A = Bip_FaceForehead00_R
+06045911 = Bip_FaceForehead01_L
+318A1780 = Bip_FaceForehead01_R
+71036987 = Bip_FaceForehead02_L
+468D2716 = Bip_FaceForehead02_R
+EF67FC24 = Bip_FaceForehead03_L
+D8E9B2B5 = Bip_FaceForehead03_R
+
+2BE0EB40 = Bip_FaceNoseUp
+173062D3 = Bip_FaceNoseCorner
+5D1B4CD2 = Bip_FaceNoseHump
+73246857 = Bip_FaceNosePoint
+
+4695CAF0 = Bip_FaceNoseSide_L
+86306185 = Bip_FaceNoseSide_R
+FD311392 = Bip_FaceNoseMidSide_L
+4A335E10 = Bip_FaceNoseMidSide_R
+64384228 = Bip_FaceNoseFrontSide_L
+D33A0FAA = Bip_FaceNoseFrontSide_R
+CEB9316A = Bip_FaceNostrilUp_L
+79BB7CE8 = Bip_FaceNostrilUp_R
+442BEE6E = Bip_FaceNostrilLo_L
+E9028782 = Bip_FaceNostrilLo_R
+57B060D0 = Bip_FaceNostrilSide_L
+E0B22D52 = Bip_FaceNostrilSide_R
+D54DAC6A = Bip_FaceNostrilCheek00_L
+527281F6 = Bip_FaceNostrilCheek00_R
+80CF4462 = Bip_FaceNostrilCheek01_L
+9F089C1D = Bip_FaceNostrilCheek01_R
+
+D79E9F90 = Bip_FaceTongueRoot
+F9FB1944 = Bip_FaceTongueMi
+CA1730E6 = Bip_FaceTongueEnd
+
+D23A78A4 = Bip_FaceBrowUpIn_L
+844F194F = Bip_FaceBrowUpIn_R
+4B33291E = Bip_FaceBrowUp_L
+1D4648F5 = Bip_FaceBrowUp_R
+3C341988 = Bip_FaceBrowUpOut_L
+6A417863 = Bip_FaceBrowUpOut_R
+A2508C2B = Bip_FaceBrowUpSide_L
+F425EDC0 = Bip_FaceBrowUpSide_R
+
+F9DEBD85 = Bip_FaceBrowLoIn_L
+E61965FA = Bip_FaceBrowLoIn_R
+60D7EC3F = Bip_FaceBrowLo_L
+7F103440 = Bip_FaceBrowLo_R
+17D0DCA9 = Bip_FaceBrowLoOut_L
+081704D6 = Bip_FaceBrowLoOut_R
+89B4490A = Bip_FaceBrowLoSide_L
+96739175 = Bip_FaceBrowLoSide_R
+
+DF9C9B4A = Bip_FaceEyeOrbitUp00_L
+1F39303F = Bip_FaceEyeOrbitUp00_R
+263DE3B7 = Bip_FaceEyeOrbitUp01_L
+A102CE2B = Bip_FaceEyeOrbitUp01_R
+BF34B20D = Bip_FaceEyeOrbitUp02_L
+380B9F91 = Bip_FaceEyeOrbitUp02_R
+C833829B = Bip_FaceEyeOrbitUp03_L
+4F0CAF07 = Bip_FaceEyeOrbitUp03_R
+36FF3E7F = Bip_FaceEyeOrbitUp04_L
+F65A950A = Bip_FaceEyeOrbitUp04_R
+56571738 = Bip_FaceEyeOrbitUp05_L
+D1683AA4 = Bip_FaceEyeOrbitUp05_R
+41F80EE9 = Bip_FaceEyeOrbitUp06_L
+815DA59C = Bip_FaceEyeOrbitUp06_R
+
+45440B57 = Bip_FaceEyeCover00_L
+2C75284E = Bip_FaceEyeCover00_R
+DC4D5AED = Bip_FaceEyeCover01_L
+B57C79F4 = Bip_FaceEyeCover01_R
+A89BABDC = Bip_FaceEyeCover02_L
+683E00A9 = Bip_FaceEyeCover02_R
+AB4A6A7B = Bip_FaceEyeCover03_L
+C27B4962 = Bip_FaceEyeCover03_R
+352EFFD8 = Bip_FaceEyeCover04_L
+5C1FDCC1 = Bip_FaceEyeCover04_R
+4229CF4E = Bip_FaceEyeCover05_L
+2B18EC57 = Bip_FaceEyeCover05_R
+
+F1BD4BF0 = Bip_Eye_L
+2E6D6213 = Bip_Eye_R
+CC32D0AA = Bip_EyeIris_L
+82D37AC0 = Bip_EyeIris_R
+
+49E4A2E6 = Bip_FaceEyelidLo00Base_L
+2DE63B05 = Bip_FaceEyelidLo00Base_R
+C8ACC624 = Bip_FaceEyelidLo00Out_L
+61BD411E = Bip_FaceEyelidLo00Out_R
+F79D2BA9 = Bip_FaceEyelidLo00In_L
+A1E84A42 = Bip_FaceEyelidLo00In_R
+E0525EC1 = Bip_FaceEyelidLo01_L
+676D735D = Bip_FaceEyelidLo01_R
+97556E57 = Bip_FaceEyelidLo02_L
+106A43CB = Bip_FaceEyelidLo02_R
+07EA73C6 = Bip_FaceEyelidLo03_L
+80D55E5A = Bip_FaceEyelidLo03_R
+70ED4350 = Bip_FaceEyelidLo04_L
+F7D26ECC = Bip_FaceEyelidLo04_R
+215027AE = Bip_FaceEyelidLo05_L
+A66F0A32 = Bip_FaceEyelidLo05_R
+
+A65F080F = Bip_FaceEyelid00_L
+C25D91EC = Bip_FaceEyelid00_R
+3F5659B5 = Bip_FaceEyelid01_L
+5B54C056 = Bip_FaceEyelid01_R
+48516923 = Bip_FaceEyelid02_L
+2C53F0C0 = Bip_FaceEyelid02_R
+D635FC80 = Bip_FaceEyelid03_L
+B2376563 = Bip_FaceEyelid03_R
+A132CC16 = Bip_FaceEyelid04_L
+C53055F5 = Bip_FaceEyelid04_R
+1B99C29C = Bip_FaceEyelid05_L
+7F9B5B7F = Bip_FaceEyelid05_R
+
+D8F15F53 = Bip_FaceEyeCanthusOut00_L
+1854F426 = Bip_FaceEyeCanthusOut00_R
+FEB3799C = Bip_FaceEyeCanthusOut01_L
+E174A1E3 = Bip_FaceEyeCanthusOut01_R
+
+4920B8F7 = Bip_FaceTearTroughts00_L
+698F98EF = Bip_FaceTearTroughts00_R
+20B75046 = Bip_FaceTearTroughts01_L
+97B51DC4 = Bip_FaceTearTroughts01_R
+484E42C2 = Bip_FaceTearTroughts02_L
+88EBE9B7 = Bip_FaceTearTroughts02_R
+
+DAB1D999 = Bip_FaceTempleUp_L
+ED3F9708 = Bip_FaceTempleUp_R
+E5B0A71B = Bip_FaceTempleMiOut_L
+23156F2E = Bip_FaceTempleMiOut_R
+7CB9F6A1 = Bip_FaceTempleMiIn_L
+BA1C3E94 = Bip_FaceTempleMiIn_R
+E23C5381 = Bip_FaceTempleLoOut_L
+DBE0306A = Bip_FaceTempleLoOut_R
+D6A3F88D = Bip_FaceTempleLoIn_L
+80D69966 = Bip_FaceTempleLoIn_R
+
+4458C619 = Bip_FaceJawJoint01_L
+122DA7F2 = Bip_FaceJawJoint01_R
+70265D96 = Bip_FaceJawJoint02_L
+B68395A3 = Bip_FaceJawJoint02_R
+953B6317 = Bip_FaceJawJoint03_L
+ACE700FC = Bip_FaceJawJoint03_R
+
+0C3232AD = Bip_FaceMandible00_L
+35EE5146 = Bip_FaceMandible00_R
+EE42C835 = Bip_FaceMandible01_L
+28E70000 = Bip_FaceMandible01_R
+335FF68F = Bip_FaceMandible02_L
+652A9764 = Bip_FaceMandible02_R
+
+AFF66FC5 = Bip_FaceCheekBone_L
+6F53C4B0 = Bip_FaceCheekBone_R
+
+EBB670FA = Bip_FaceCheekLo00_L
+A557DA90 = Bip_FaceCheekLo00_R
+72BF2140 = Bip_FaceCheekLo01_L
+3C5E8B2A = Bip_FaceCheekLo01_R
+F0284235 = Bip_FaceCheekLo02_L
+E3647543 = Bip_FaceCheekLo02_R
+
+67BA2826 = Bip_FaceCheekSide00_L
+787DF059 = Bip_FaceCheekSide00_R
+845111D0 = Bip_FaceCheekSide01_L
+036E3C4C = Bip_FaceCheekSide01_R
+F3562146 = Bip_FaceCheekSide02_L
+74690CDA = Bip_FaceCheekSide02_R
+6A5F70FC = Bip_FaceCheekSide03_L
+ED605D60 = Bip_FaceCheekSide03_R
+94259963 = Bip_FaceCheekSide04_L
+8769AE15 = Bip_FaceCheekSide04_R
+
+19C615D8 = Bip_FaceCheekFront00_L
+0601CDA7 = Bip_FaceCheekFront00_R
+3F497254 = Bip_FaceCheekFront01_L
+FFECD921 = Bip_FaceCheekFront01_R
+4C44FDD0 = Bip_FaceCheekFront02_L
+CB7BD04C = Bip_FaceCheekFront02_R
+
+52110379 = Bip_FaceUpperLipUp
+21688ED9 = Bip_FaceUpperLipUp00_L
+456A173A = Bip_FaceUpperLipUp00_R
+6967CF39 = Bip_FaceUpperLipUp01_L
+7A2BF84F = Bip_FaceUpperLipUp01_R
+E322A9F5 = Bip_FaceUpperLipUp02_L
+F06E9E83 = Bip_FaceUpperLipUp02_R
+
+F5D0FA98 = Bip_FaceLipMiUpOut
+09729536 = Bip_FaceLipMiUpIn
+D86607BC = Bip_FaceLipEdgeOut_L
+B15724A5 = Bip_FaceLipEdgeOut_R
+2D67820F = Bip_FaceLipEdgeIn_L
+804EEBE3 = Bip_FaceLipEdgeIn_R
+416F5606 = Bip_FaceLipRoll1Out_L
+285E751F = Bip_FaceLipRoll1Out_R
+1C8F9892 = Bip_FaceLipRoll1In_L
+B1A6F17E = Bip_FaceLipRoll1In_R
+36686690 = Bip_FaceLipRoll2Out_L
+5F594589 = Bip_FaceLipRoll2Out_R
+BAF89326 = Bip_FaceLipRoll2In_L
+17D1FACA = Bip_FaceLipRoll2In_R
+
+90828BE6 = Bip_FaceLipMiLoOut
+D3F0FE1A = Bip_FaceLipMiLoIn
+1C80F014 = Bip_FaceLipBumpLoOut_L
+25E7414F = Bip_FaceLipBumpLoOut_R
+478EBDB9 = Bip_FaceLipBumpLoIn_L
+812B758C = Bip_FaceLipBumpLoIn_R
+8589A1AE = Bip_FaceLipRidge1Out_L
+BCEE10F5 = Bip_FaceLipRidge1Out_R
+7666A724 = Bip_FaceLipRidge1In_L
+B0C36F11 = Bip_FaceLipRidge1In_R
+F28E9138 = Bip_FaceLipRidge2Out_L
+CBE92063 = Bip_FaceLipRidge2Out_R
+D011AC90 = Bip_FaceLipRidge2In_L
+16B464A5 = Bip_FaceLipRidge2In_R
+
+D600BA1E = Bip_FaceMouthCornerBase_L
+EFDCD9F5 = Bip_FaceMouthCornerBase_R
+52CE6873 = Bip_FaceMouthCornerUp_L
+B7E75691 = Bip_FaceMouthCornerUp_R
+3309F4B7 = Bip_FaceMouthCornerLo_L
+9E209D5B = Bip_FaceMouthCornerLo_R
+85377B9A = Bip_FaceMouthCornerInBase_L
+601E4578 = Bip_FaceMouthCornerInBase_R
+009CAF27 = Bip_FaceMouthCornerInUp_L
+E8DE69A6 = Bip_FaceMouthCornerInUp_R
+11E089E4 = Bip_FaceMouthCornerInLo_L
+3712E1B6 = Bip_FaceMouthCornerInLo_R
+
+C4B38A58 = Bip_ChinLo
+AA56A735 = Bip_ChinLo_L
+FC23C6DE = Bip_ChinLo_R
+
+5DBADBE2 = Bip_Chin
+004CA919 = Bip_Chin00_L
+C6E9612C = Bip_Chin00_R
+9945F8A3 = Bip_Chin01_L
+5FE03096 = Bip_Chin01_R
+
+A8A49A20 = Bip_ChinUp
+0C712455 = Bip_ChinUp00_L
+3BFF6AC4 = Bip_ChinUp00_R
+957875EF = Bip_ChinUp01_L
+A2F63B7E = Bip_ChinUp01_R
+
+87AFC36C = Bip_ChinFront
+5D803004 = Bip_ChinFront00_L
+4ECC0772 = Bip_ChinFront00_R
+C48961BE = Bip_ChinFront01_L
+D7C556C8 = Bip_ChinFront01_R
+
+AC554B43 = Bip_Goiter
+3CA9A646 = Bip_GoiterEnd
