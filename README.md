@@ -2,8 +2,10 @@
 
 ```
 Mirror of: https://forum.xentax.com/viewtopic.php?t=19586
-All credit goes to its owner.
+All credit goes to its owner. (daemon1)
 ```
+
+---
 
 ```
 Detroit Become Human tools. (PC, PS4)
